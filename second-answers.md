@@ -48,7 +48,7 @@ Mode                LastWriteTime         Length Name
 -a----        8/27/2020   9:35 PM            202 README.md
 -a----        8/27/2020   1:00 PM           1044 second-answers.md
 
-Answer to question 7:
+Answer to question 7: They are not merged
 Mode                LastWriteTime         Length Name
 ----                -------------         ------ ----
 -a----        8/27/2020  11:53 AM            302 .gitignore
